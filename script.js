@@ -77,7 +77,7 @@ btnReiniciar.addEventListener('click', () => {
 // Agregar firma con link al pie
 const firma = document.querySelector('.firma');
 if (firma) {
-  firma.innerHTML += ' | <a href="https://guanaco297.github.io/Fundentes-app/" target="_blank">Ver App Online</a>';
+  firma.innerHTML += ' | <a href="https://guanaco297.github.io/Fundentes-calculadora/" target="_blank">Ver App Online</a>';
 }
 
 // Cambiar texto del label en el formulario
